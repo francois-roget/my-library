@@ -1,6 +1,6 @@
 {
   "name": "@francois-roget/my-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.umd.js",
   "module": "dist/index.mjs",
@@ -25,6 +25,6 @@
     "react": "^18.2.0"
   },
   "publishConfig": {
-    "@francois-roget:registry": "https://npm.pkg.github.com"
+    "@francois-roget:registry": "https://npm.pkg.github.com/"
   }
 }
