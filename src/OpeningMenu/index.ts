@@ -1,1 +1,3 @@
-export * from "./OpeningMenu";
+import OpeningMenu from "./OpeningMenu";
+
+export default OpeningMenu;

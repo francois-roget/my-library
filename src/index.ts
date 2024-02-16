@@ -1,3 +1,5 @@
 export * from "./Card";
 export * from "./Button";
-export * from "./OpeningMenu";
+import OpeningMenu from "./OpeningMenu";
+
+export { OpeningMenu };
